@@ -12,10 +12,37 @@ This project showcases a comprehensive end-to-end data warehousing and analytics
 ## Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling, analytical reporting and informed 
 Specifications:
-•	**Data Sources**: Synthetic mock data (Python-generated, 7 related tables, with intentional data quality issues for practice purposes) provided as CSV.
-•	**Data Quality**: cleanse and resolve data quality issues prior to analysis.
-•	Integration**: Combine all 7 tables into a single, user-friendly relational data model (via foreign keys) designed for analytical queries.
-•	**Scope**: Focus on the latest dataset only, historization of data is not required.
-•	**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+- **Data Sources**: Synthetic mock data (Python-generated, 7 related tables, with intentional data quality issues for practice purposes) provided as CSV.
+- **Data Quality**: cleanse and resolve data quality issues prior to analysis.
+- Integration**: Combine all 7 tables into a single, user-friendly relational data model (via foreign keys) designed for analytical queries.
+- **Scope**: Focus on the latest dataset only, historization of data is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+--
+
+### BI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+--
+
+## 🛡️ License
+
+This project is licensed under the [MIT Licence](LICENSE). You are free to use , modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi, I'm **Achraf** 👋
+
+I'm a Wirtschaftsinformatik (Business Information Systems) student with a strong passion for data analysis. I enjoy working with data end-to-end — cleaning messy datasets, modeling relationships, and writing SQL queries to turn raw data into insights.
+
+I'm currently building up my skills through hands-on practice projects and actively looking for opportunities as a Data Analyst.
+
+📫 Reach me at: achraf.oumsii@gmail.com
 
